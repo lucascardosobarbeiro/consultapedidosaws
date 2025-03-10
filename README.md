@@ -67,7 +67,10 @@ return {
 ## Possíveis Melhorias
 - Adicionar logs para monitoramento no **Amazon CloudWatch**.
 - Implementar um banco de dados relacional caso a estrutura cresça.
-- Criar um frontend simples para interação com o chatbot.
+- Criar um frontend simples para interação com o chatbot.![2025-03-10 15-39-25](https://github.com/user-attachments/assets/88f71646-331d-494a-b5f9-a25fb06ce299)
+
+
+- 
 
 ## Conclusão
 Este chatbot melhora a experiência do usuário ao fornecer informações rápidas sobre pedidos. Ele pode ser integrado a outras plataformas como **WhatsApp, Telegram e sites empresariais** para facilitar consultas automatizadas.
